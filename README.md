@@ -9,3 +9,7 @@
 
 - https://www.coursera.org/learn/machine-learning
 - http://fast.ai
+
+# Online Resources
+
+- http://scikit-learn.org/stable/user_guide.html
