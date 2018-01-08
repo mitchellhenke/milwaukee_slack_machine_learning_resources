@@ -13,4 +13,4 @@
 # Online Resources
 
 - http://scikit-learn.org/stable/user_guide.html
-- https://www.youtube.com/watch?v=-zT1Zi_ukSk
+- [Developing Neural Networks](https://www.youtube.com/watch?v=-zT1Zi_ukSk)
